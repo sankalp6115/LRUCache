@@ -60,6 +60,7 @@ class DoublyLinkedList<K,V> {
             else System.out.println(temp.key + ":" + temp.value);
             temp = temp.next;
         }
+        System.out.println();
         return;
     }
 

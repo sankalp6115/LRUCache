@@ -18,7 +18,7 @@ public class CacheImplementation {
         cache.print();
         
         // put
-        cache.put(5,"esports");
+        cache.put(5,"E-Sports");
         cache.print();
     }
 }
